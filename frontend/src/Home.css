@@ -1,0 +1,11 @@
+  .parent {
+    background-image: url("sunset.jpg");
+    width: 100vw;
+    height: 100vh
+  }
+  
+  .child {
+    text-align:center;
+    width: 100%;
+    margin-top: 20%
+  }
